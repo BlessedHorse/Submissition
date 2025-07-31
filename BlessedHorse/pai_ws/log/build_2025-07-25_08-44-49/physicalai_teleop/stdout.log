@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating physicalai_teleop.egg-info
+writing physicalai_teleop.egg-info/PKG-INFO
+writing dependency_links to physicalai_teleop.egg-info/dependency_links.txt
+writing entry points to physicalai_teleop.egg-info/entry_points.txt
+writing requirements to physicalai_teleop.egg-info/requires.txt
+writing top-level names to physicalai_teleop.egg-info/top_level.txt
+writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+reading manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages/physicalai-teleop.egg-link (link to .)
+Installing teleop_keyboard script to /home/ubuntu/pai_ws/install/physicalai_teleop/lib/physicalai_teleop
+
+Installed /home/ubuntu/pai_ws/build/physicalai_teleop
+running symlink_data
+creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index
+creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index
+creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/pai_ws/build/physicalai_teleop/resource/physicalai_teleop -> /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/pai_ws/build/physicalai_teleop/package.xml -> /home/ubuntu/pai_ws/install/physicalai_teleop/share/physicalai_teleop

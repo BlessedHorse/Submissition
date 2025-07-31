@@ -1,0 +1,24 @@
+[0.349s] Invoking command in '/home/ubuntu/pai_ws/build/physicalai_teleop': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data
+[0.460s] running develop
+[0.526s] running egg_info
+[0.526s] creating physicalai_teleop.egg-info
+[0.526s] writing physicalai_teleop.egg-info/PKG-INFO
+[0.526s] writing dependency_links to physicalai_teleop.egg-info/dependency_links.txt
+[0.526s] writing entry points to physicalai_teleop.egg-info/entry_points.txt
+[0.526s] writing requirements to physicalai_teleop.egg-info/requires.txt
+[0.526s] writing top-level names to physicalai_teleop.egg-info/top_level.txt
+[0.527s] writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[0.527s] reading manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[0.528s] writing manifest file 'physicalai_teleop.egg-info/SOURCES.txt'
+[0.528s] running build_ext
+[0.528s] Creating /home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages/physicalai-teleop.egg-link (link to .)
+[0.529s] Installing teleop_keyboard script to /home/ubuntu/pai_ws/install/physicalai_teleop/lib/physicalai_teleop
+[0.529s] 
+[0.529s] Installed /home/ubuntu/pai_ws/build/physicalai_teleop
+[0.529s] running symlink_data
+[0.529s] creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index
+[0.529s] creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index
+[0.529s] creating /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index/packages
+[0.529s] symbolically linking /home/ubuntu/pai_ws/build/physicalai_teleop/resource/physicalai_teleop -> /home/ubuntu/pai_ws/install/physicalai_teleop/share/ament_index/resource_index/packages
+[0.529s] symbolically linking /home/ubuntu/pai_ws/build/physicalai_teleop/package.xml -> /home/ubuntu/pai_ws/install/physicalai_teleop/share/physicalai_teleop
+[0.543s] Invoked command in '/home/ubuntu/pai_ws/build/physicalai_teleop' returned '0': PYTHONPATH=/home/ubuntu/pai_ws/build/physicalai_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/pai_ws/install/physicalai_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/pai_ws/build/physicalai_teleop/build --no-deps symlink_data
